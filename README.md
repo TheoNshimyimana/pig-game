@@ -1,2 +1,2 @@
 # Pig game application
-Playing game by Throw dice roll
+Playing game by throw dice roll
